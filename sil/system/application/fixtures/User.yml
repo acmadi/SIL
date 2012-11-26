@@ -1,0 +1,379 @@
+User:
+  User_1:
+    username: admin
+    password: rahasia
+    nama: admin
+    deskripsi: ''
+    lon: ''
+    lat: ''
+    file_logo: logo-provinsi.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '2'
+    created_at: '2011-11-17 07:30:04'
+    updated_at: '2011-11-17 07:30:04'
+  User_2:
+    username: 'Kab Bekasi'
+    password: 931735e197cbd07c01ab8a9d41c8b335
+    nama: 'Kab Bekasi'
+    deskripsi: 'Badan LH Kabupaten Bekasi  Komp. Perkantoran Pemda Kab. Bekasi Kota Delta Mas Cikarang Barat  Tlp.  021-89970064'
+    lon: '106.999389'
+    lat: '-6.259263'
+    file_logo: logo-kab-bekasi.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:04'
+    updated_at: '2011-11-17 07:30:04'
+  User_3:
+    username: 'Kota Depok'
+    password: rahasia
+    nama: 'Kota Depok'
+    deskripsi: 'Badan LH. Kota Depok Jl. Tole Iskandar Komp. Ruko Sukmajaya No. 17  021-77823891'
+    lon: '106.80504'
+    lat: '-6.390667'
+    file_logo: logo-kota-depok.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:04'
+    updated_at: '2011-11-17 07:30:04'
+  User_4:
+    username: 'Kab Bogor'
+    password: 45f8ae409b9b963af11fe0bf272d4127
+    nama: 'Kab Bogor'
+    deskripsi: 'Badan LH Kab. Bogor Gedung Setda Lt II Jl. Tegar Beriman Cibinong  Tlp. 021-8765'
+    lon: '106.62547'
+    lat: '-6.48578'
+    file_logo: logo-kab-bogor.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_5:
+    username: 'Kota Bogor'
+    password: b304e0b5f7d90a646c89ff2d22c8f0e3
+    nama: 'Kota Bogor'
+    deskripsi: 'Dinas Lingkungan Hidup Kota Bogor, Jl. Paledang No.43 (0251) 321577'
+    lon: '106.794401'
+    lat: '-6.590765'
+    file_logo: logo-kota-bogor.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_6:
+    username: 'Kab Cianjur'
+    password: 59b7d3af3124fb898507f0a79a22de90
+    nama: 'Kab Cianjur'
+    deskripsi: 'Kantor LH Kab. Cianjur Jl. Raya Bandung  Cianjur KM,2   Tlp.  0263-261389'
+    lon: '107.14608'
+    lat: '-6.815918'
+    file_logo: logo-kab-cianjur.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_7:
+    username: 'Kota Sukabumi'
+    password: f9bd4fdcbec1370533e2498e8b2a256e
+    nama: 'Kota Sukabumi'
+    deskripsi: 'Kantor LH Kota Sukabumi Jl. Ciaul Pasir  Tlp. 0266 245246     fax 0266-22112'
+    lon: '106.923624'
+    lat: '-6.924746'
+    file_logo: logo-kota-sukabumi.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_8:
+    username: 'Kota Bandung'
+    password: e3821ec4ec03a1d1465706296706fa8d
+    nama: 'Kota Bandung'
+    deskripsi: 'Badan Pengelola Lingkungan Hidup Kota Bandung; Jl. Sadang Tengah No.6 (022) 2514'
+    lon: '107.609884'
+    lat: '-6.916003'
+    file_logo: logo-kota-bandung.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_9:
+    username: 'Kab Purwakarta'
+    password: 6036e709ac304b45f6d3b8bb8f7d7876
+    nama: 'Kab Purwakarta'
+    deskripsi: 'Jl. Purnawarman Timur No.11 A Telp (0264) 212738'
+    lon: '107.443918'
+    lat: '-6.541874'
+    file_logo: logo-kab-purwakarta.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_10:
+    username: 'Kab Subang'
+    password: 058d7cc3876a80264b1404f0d709bc2d
+    nama: 'Kab Subang'
+    deskripsi: 'Badan Pengelola Lingkungan Hidup Kabupaten Subang Jl. Dewi Sartika No.2'
+    lon: '107.760553'
+    lat: '-6.567705'
+    file_logo: logo-kabupaten-subang.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_11:
+    username: 'Kab Karawang'
+    password: 23285d273a212140e8e4ec5046f45027
+    nama: 'Kab Karawang'
+    deskripsi: 'Badan LH Kab. Karawang Jl.  By Pass  Tanjung Pura  Tlp.  0267-406087'
+    lon: '107.323999'
+    lat: '-6.259263'
+    file_logo: logo-kab-karawang.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_12:
+    username: 'Kab Indramayu'
+    password: 0b9414565fc9540e3f504ed37dbf0202
+    nama: 'Kab Indramayu'
+    deskripsi: 'Kantor Lingkungan Hidup Kabupaten Indramayu Jl. Yos Sudarso No.11'
+    lon: '108.287057'
+    lat: '-6.393984'
+    file_logo: logo-kab-indramayu.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_13:
+    username: 'Kota Cirebon'
+    password: 341b48d7f505b3dd0be588ffd07e7c69
+    nama: 'Kota Cirebon'
+    deskripsi: 'Kantor Pengelola LH Kota Cirebon Jl;. Dr. Wahidin No. 16  Tlp. 0231-203988'
+    lon: '108.566276'
+    lat: '-6.720306'
+    file_logo: logo-kota-cirebon.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_14:
+    username: 'Kab Kuningan'
+    password: a15943072ae5a195b377f810c129d9bf
+    nama: 'Kab Kuningan'
+    deskripsi: 'BPLHD Kab. Kuningan Jl. RE. Martadinata Ancaran Blk Gedung DPRD Kuningan'
+    lon: '108.556'
+    lat: '-7.014715'
+    file_logo: logo-kab-kuningan.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_15:
+    username: 'Kab Majalengka'
+    password: 72bc68a10d8463a2394f7a88a20c4380
+    nama: 'Kab Majalengka'
+    deskripsi: 'Kantor LH Kabupaten Majalengka  Jl. KH. Abdul Halim No. 522  Tlp.  0233-281671'
+    lon: '108.225738'
+    lat: '-6.819283'
+    file_logo: logo-kab-majalengka.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_16:
+    username: 'Kab Garut'
+    password: dc8ec3c85464d2699198744c35a47850
+    nama: 'Kab Garut'
+    deskripsi: 'Badan LH Kab. Garut Jl. Pramuka No. 28   Tlp.  0262-236657'
+    lon: '107.908891'
+    lat: '-7.248043'
+    file_logo: logo-kab-garut.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_17:
+    username: 'Kota Tasikmalaya'
+    password: 5148fce0cc63f9d6e126237c57eee70c
+    nama: 'Kota Tasikmalaya'
+    deskripsi: 'Kantor Pengendalian LH Kota Tasikmalaya Jl. Noenoeng Tisnasaputr'
+    lon: '108.199975'
+    lat: '-7.33536'
+    file_logo: logo-kota-tasikmalaya.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_18:
+    username: 'Kab Ciamis'
+    password: 5058cbb635867660cf88229b88f9e84c
+    nama: 'Kab Ciamis'
+    deskripsi: 'Jl. Baru No.18 Kertasari  Telp./Fax (0265) 773998'
+    lon: '108.364959'
+    lat: '-7.332589'
+    file_logo: logo-kab-ciamis.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_19:
+    username: 'Kota Banjar'
+    password: 55d0937b4966853cb5eeac90e19f7789
+    nama: 'Kota Banjar'
+    deskripsi: 'Badan  LH  Kebersihan Kota Banjar, Jl. Tentara Pelajar No. 437'
+    lon: '108.547112'
+    lat: '-7.368046'
+    file_logo: logo-kota-banjar.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_20:
+    username: 'Kab Sumedang'
+    password: b9cf4775d08595930b845e8908780994
+    nama: 'Kab Sumedang'
+    deskripsi: 'Badan LH Kabupaten Sumedang Jl. Angkrek No. 103    Tlp.  0261-201225'
+    lon: '107.916348'
+    lat: '-6.861452'
+    file_logo: logo-kab-sumedang.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_21:
+    username: 'Kota Bekasi'
+    password: 0f359ea12f91bc03a62f5e22e3b673bf
+    nama: 'Kota Bekasi'
+    deskripsi: 'Badan LH Kota Bekasi Jl. Jend. A. Yani No. 1    Tlp.  021-88954118'
+    lon: '107.00833'
+    lat: '-6.25571'
+    file_logo: logo-kota-bekasi.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_22:
+    username: 'Kab Bandung'
+    password: 64330244c26fa6fe0497593acbcd65d2
+    nama: 'Kab Bandung'
+    deskripsi: 'Komplek PEMDA Kab. Bandung Jl. Raya Soreang KM.17 Telp.022 5893313'
+    lon: '107.521273'
+    lat: '-7.028686'
+    file_logo: logo-kab-bandung.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_23:
+    username: 'Kab Tasikmalaya'
+    password: 3d375baed5a68cd43347fb46e9917f23
+    nama: 'Kab Tasikmalaya'
+    deskripsi: 'Kantor LH Kabupaten Tasikmalaya Jl. Perintis Kemerdekaan Tlp.  0265 548787'
+    lon: '108.130354'
+    lat: '-7.33421'
+    file_logo: logo-kab-tasikmalaya.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_24:
+    username: 'Kab Sukabumi'
+    password: c8f23032654a27ae8c65eaea213c4cd3
+    nama: 'Kab Sukabumi'
+    deskripsi: 'Badan LH Kab. Sukabumi Jl. Raya Cimaja Km 9 Cisolok Pelabuan Ratu Tlp. 0266-4364'
+    lon: '106.927515'
+    lat: '-7.037618'
+    file_logo: logo-kab-sukabumi.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_25:
+    username: 'Kota Cimahi'
+    password: cbe3f0b202f35825ab097d048e33b860
+    nama: 'Kota Cimahi'
+    deskripsi: 'Kantor LH Kota Cimahi Komp. Perkantoran Pemda Kota Cimahi Cihanjuang  022-6631787'
+    lon: '107.540739'
+    lat: '-6.869694'
+    file_logo: logo-kota-cimahi.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_26:
+    username: 'Kab Cirebon'
+    password: 1fddaa6ad402f6c669c2c3caf94ed1c3
+    nama: 'Kab Cirebon'
+    deskripsi: 'Badan Pengelolaan LH Kab. Cirebon Jl. Sunan Derajat No. 15'
+    lon: '108.557327'
+    lat: '-6.752777'
+    file_logo: logo-kabupaten-cirebon.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'
+  User_27:
+    username: 'Kab Bandung Barat'
+    password: 282e12b6fb6be84382e0c2670202f452
+    nama: 'Kab Bandung Barat'
+    deskripsi: 'Kantor LH Kab. Bandung Barat Konplek Ruko Cimareme Indah Padalarang Blok A1/10'
+    lon: '107.51239'
+    lat: '-6.866485'
+    file_logo: logo-kab-bandung%20barat.png
+    phone_no: ''
+    email: ''
+    status: '1'
+    role: '1'
+    created_at: '2011-11-17 07:30:05'
+    updated_at: '2011-11-17 07:30:05'

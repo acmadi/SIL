@@ -1,0 +1,112 @@
+#laporan-table tr,td{
+	padding: 5px;
+}
+
+#map_canvas{
+	min-width: 730px;
+	min-height: 420px;
+	margin-top: -30px;
+	margin-right: -30px;
+	margin-bottom: -55px;
+}
+
+#filterbox{
+	min-height: 20px;
+}
+
+#mapfilter{
+	min-width: 230px;
+	min-height: 420px;
+	margin-top: -30px;
+	margin-left: -30px;
+	margin-bottom: -55px;
+}
+
+#pagination-box{
+	margin-left: 250px;
+}
+
+#img-gallery{
+	min-height : 360px;
+}
+
+#big-photo{
+	background: #fff;
+	border-color: #aaa #ccc #ddd #bbb;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	padding: 8px;
+	vertical-align: top;
+	max-width: 500px;
+	max-height: 500px;
+}
+
+#reportMarker{
+	min-height : 200px;
+	width : 250px;
+	overflow : hidden;
+}
+
+#reportMarker p{
+	width: 250px;
+	overflow : hidden;
+}
+   
+/* --------------------SHAPE------------------------ */  
+.round {
+   -moz-border-radius: 10px;
+   -webkit-border-radius: 10px;}
+
+.shadow-light{
+   -moz-box-shadow: 5px 10px 30px rgba(0,0,0,0.4);
+   -webkit-box-shadow: 5px 10px 30px rgba(0,0,0,0.3);}
+
+.shadow-bold{
+   -moz-box-shadow: 5px 10px 5px rgb(5,5,5);
+   -webkit-box-shadow: 5px 10px 5px rgb(5,5,5);}
+
+.hidden {
+	visibility:hidden;}
+
+.clearboth{
+	clear:both;}
+	
+.floatleft{
+	float:left;}
+	
+.floatright{
+	float:right;}
+	
+.centering{
+	text-align :center;}
+.righting{
+	text-align :right;}	
+	
+.block{
+   float:left;
+   border-width: 2px;
+   border-color: rgb(200,200,200);
+   line-height: 19px;
+   margin-top: 0px;
+   margin-bottom:20px;
+   min-height: 270px;
+   text-align : center;
+}
+
+.b-full{width: 100%;}
+.b-fourth{width: 200px;}
+.b-third{width: 290px;}
+.b-half{width: 455px;}
+.b-halfquarter{width: 347px;}
+.b-quarter{width: 550px;}
+
+.b-left{ margin-right:10px;}
+.b-center{ margin-left:10px;margin-right:10px;}
+.b-right{ margin-left:10px;}
+
+.b-strip{ background-image: url(../img/bg.png);}
+.b-hstrip{ background-image: url(../img/bg2.gif);}
+.b-square{ background-image: url(../img/bg3.png);}
+.b-sand{ background-image: url(../img/bg4.png);}
+.b-sand2{ background-image: url(../img/bg5.png);}

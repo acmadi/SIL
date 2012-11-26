@@ -1,0 +1,201 @@
+Jenis_Data:
+  Jenis_Data_2:
+    nama: 'Kebutuhan Air Industri'
+    satuan: (liter/detik)
+    kategori: '1'
+    nama_tabel: kebutuhan_air_industri
+  Jenis_Data_3:
+    nama: 'Lahan Kritis'
+    satuan: (ha)
+    kategori: '1'
+    nama_tabel: lahan_kritis
+  Jenis_Data_4:
+    nama: 'Penggunaan Lahan'
+    satuan: (ha)
+    kategori: '1'
+    nama_tabel: use_lahan
+  Jenis_Data_5:
+    nama: 'Penggunaan Hutan'
+    satuan: (ha)
+    kategori: '1'
+    nama_tabel: use_hutan
+  Jenis_Data_6:
+    nama: 'Jumlah Penduduk Laki-laki (Umur)'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: laki_laki_by_umur
+  Jenis_Data_7:
+    nama: 'Jumlah Penduduk Perempuan (Umur)'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: perempuan_by_umur
+  Jenis_Data_8:
+    nama: 'Jumlah Penduduk Laki-Laki (Pendidikan Terakhir)'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: laki_laki_by_pendidikan
+  Jenis_Data_9:
+    nama: 'Jumlah Penduduk Perempuan (Pendidikan Terakhir)'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: perempuan_by_pendidikan
+  Jenis_Data_10:
+    nama: 'Luas Hutan Tanaman Industri'
+    satuan: 'ha'
+    kategori: '1'
+    nama_tabel: luas_hutan_tanaman_industri
+  Jenis_Data_11:
+    nama: 'Volume Pemakaian Air Permukaan'
+    satuan: 'm3'
+    kategori: '1'
+    nama_tabel: volume_pemakaian_air_permukaan
+  Jenis_Data_12:
+    nama: 'Jumlah Luas dan Potensi Situ/Waduk'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jlpsw'
+  Jenis_Data_13:
+    nama: 'Jumlah Kondisi Bendung Tetap'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jkbt'
+  Jenis_Data_14:
+    nama: 'Jumlah Kondisi Bendung Bergerak'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jkbb'
+  Jenis_Data_15:
+    nama: 'Hasil Uji Emisi Bahan Bakar Bensin'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'huebbb'
+  Jenis_Data_16:
+    nama: 'Hasil Uji Emisi Bahan Bakar Solar'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'huebbs'
+  Jenis_Data_17:
+    nama: 'Hasil Uji Emisi yang Tidak Memenuhi BME'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'huetmb'
+  Jenis_Data_18:
+    nama: 'Luas Kerapatan Mangrove'
+    satuan: 'ha'
+    kategori: '1'
+    nama_tabel: 'lkm'
+  Jenis_Data_19:
+    nama: 'Curah Hujan Rata-Rata Bulanan'
+    satuan: 'mm'
+    kategori: '1'
+    nama_tabel: 'chrb'
+  Jenis_Data_20:
+    nama: 'Suhu Rata-Rata Bulanan'
+    satuan: 'C'
+    kategori: '1'
+    nama_tabel: 'srb'
+  Jenis_Data_21:
+    nama: 'Bencana Banjir, Korban, dan Kerugian'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'bbkk'
+  Jenis_Data_22:
+    nama: 'Bencana Kekeringan, Luas, dan Kerugian'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'bklk'
+  Jenis_Data_23:
+    nama: 'Bencana Tanah Longsor, Korban, dan Kerugian'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'btlkk'
+  Jenis_Data_24:
+    nama: 'Bencana Alam Gempa Bumi, Korban, dan Kerugian'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'bagbkk'
+  Jenis_Data_25:
+    nama: 'Luas Wilayah, Jumlah Penduduk, Laju Pertumbuhan'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'lwjplp'
+  Jenis_Data_26:
+    nama: 'Jumlah Penduduk Pesisir'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jpp'
+  Jenis_Data_27:
+    nama: 'Jumlah Penduduk, Luas Daerah, Kepadatan, Jumlah Sekolah Menurut Tingkat Pendidikan'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jpldkjsmtp'
+  Jenis_Data_28:
+    nama: 'Jumlah Rumah Tangga Miskin'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jrtm'
+  Jenis_Data_29:
+    nama: 'Jumlah Rumah Tangga dan Sumber Air Minum'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jrtsam'
+  Jenis_Data_30:
+    nama: 'Jumlah Rumah Tangga Menurut Cara Pembuangan Sampah'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jrtmcps'
+  Jenis_Data_31:
+    nama: 'Jumlah Rumah Tangga Menurut Fasilitas Tempat Buang Air Besar'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jrtmftbab'
+  Jenis_Data_32:
+    nama: 'Jumlah Rumah Tangga Menurut Tempat Buangan Akhir Tinja Tanpa Tanki Septik Tank'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jrtmtbatttst'
+  Jenis_Data_33:
+    nama: 'Jumlah Rumah Tangga Menurut Perkiraan Timbulan Sampah Perhari'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jrtmptsp'
+  Jenis_Data_34:
+    nama: 'Luas Lahan Sawah Menurut Frekuensi Penanaman dan Hasil Produksi Per Hektar'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'llsmfphpph'
+  Jenis_Data_35:
+    nama: 'Produksi Tananam Palawija Menurut Jenis Tanaman'
+    satuan: 'ton'
+    kategori: '1'
+    nama_tabel: 'ptpmjt'
+  Jenis_Data_36:
+    nama: 'Jumlah Hewan Ternak Menurut Jenis Ternak'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jhtmjt'
+  Jenis_Data_37:
+    nama: 'Jumlah Hewan Unggas Menurut Jenis Unggas'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jhumju'
+  Jenis_Data_38:
+    nama: 'Perkiraan Emisi Gas Metan dari Lahan Sawah'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'pegmdls'
+  Jenis_Data_39:
+    nama: 'Perkiraan Emisi Gas Metan dari Peternakan'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'pegmdp'
+  Jenis_Data_40:
+    nama: 'Sebaran Unit Usaha, Tenaga Kerja, dan Investasi Sektor Industri'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'suttkisi'
+  Jenis_Data_41:
+    nama: 'Jumlah Rumah Tangga dan Penggunaan Bahan Bakar untuk Memasak'
+    satuan: ' '
+    kategori: '1'
+    nama_tabel: 'jrtpbbm'

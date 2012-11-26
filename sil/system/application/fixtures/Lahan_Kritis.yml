@@ -1,0 +1,771 @@
+Lahan_Kritis:
+  Lahan_Kritis_1:
+    dalam_kawasan_hutan: '2694'
+    luar_kawasan_hutan: '52668'
+    kota_id: '16'
+    data_tahun: '1'
+  Lahan_Kritis_2:
+    dalam_kawasan_hutan: '11684'
+    luar_kawasan_hutan: '32955'
+    kota_id: '24'
+    data_tahun: '2'
+  Lahan_Kritis_3:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '653'
+    kota_id: '22'
+    data_tahun: '3'
+  Lahan_Kritis_4:
+    dalam_kawasan_hutan: '1678'
+    luar_kawasan_hutan: '29073'
+    kota_id: '15'
+    data_tahun: '4'
+  Lahan_Kritis_5:
+    dalam_kawasan_hutan: '6557'
+    luar_kawasan_hutan: '23781'
+    kota_id: '6'
+    data_tahun: '5'
+  Lahan_Kritis_6:
+    dalam_kawasan_hutan: '17858'
+    luar_kawasan_hutan: '13317'
+    kota_id: '4'
+    data_tahun: '6'
+  Lahan_Kritis_7:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '25001'
+    kota_id: '12'
+    data_tahun: '7'
+  Lahan_Kritis_8:
+    dalam_kawasan_hutan: '9881'
+    luar_kawasan_hutan: '14363'
+    kota_id: '11'
+    data_tahun: '8'
+  Lahan_Kritis_9:
+    dalam_kawasan_hutan: '12958'
+    luar_kawasan_hutan: '11436'
+    kota_id: '10'
+    data_tahun: '9'
+  Lahan_Kritis_10:
+    dalam_kawasan_hutan: '1043'
+    luar_kawasan_hutan: '13450'
+    kota_id: '18'
+    data_tahun: '10'
+  Lahan_Kritis_11:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '11959'
+    kota_id: '20'
+    data_tahun: '11'
+  Lahan_Kritis_12:
+    dalam_kawasan_hutan: '1616'
+    luar_kawasan_hutan: '8629'
+    kota_id: '23'
+    data_tahun: '12'
+  Lahan_Kritis_13:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '1680'
+    kota_id: '9'
+    data_tahun: '13'
+  Lahan_Kritis_14:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '7064'
+    kota_id: '14'
+    data_tahun: '14'
+  Lahan_Kritis_15:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '12255'
+    kota_id: '2'
+    data_tahun: '15'
+  Lahan_Kritis_16:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '5178'
+    kota_id: '26'
+    data_tahun: '16'
+  Lahan_Kritis_17:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '1011'
+    kota_id: '17'
+    data_tahun: '17'
+  Lahan_Kritis_18:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '1242'
+    kota_id: '19'
+    data_tahun: '18'
+  Lahan_Kritis_19:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '25'
+    kota_id: '25'
+    data_tahun: '19'
+  Lahan_Kritis_20:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '184'
+    kota_id: '3'
+    data_tahun: '20'
+  Lahan_Kritis_21:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '33'
+    kota_id: '8'
+    data_tahun: '21'
+  Lahan_Kritis_22:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '124'
+    kota_id: '7'
+    data_tahun: '22'
+  Lahan_Kritis_23:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '36'
+    kota_id: '21'
+    data_tahun: '23'
+  Lahan_Kritis_24:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '100'
+    kota_id: '13'
+    data_tahun: '24'
+  Lahan_Kritis_25:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '27'
+    data_tahun: '25'
+  Lahan_Kritis_26:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '5'
+    data_tahun: '26'
+  Lahan_Kritis_27:
+    dalam_kawasan_hutan: '13643'
+    luar_kawasan_hutan: '69053'
+    kota_id: '16'
+    data_tahun: '27'
+  Lahan_Kritis_28:
+    dalam_kawasan_hutan: '21301'
+    luar_kawasan_hutan: '46224'
+    kota_id: '24'
+    data_tahun: '28'
+  Lahan_Kritis_29:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '884'
+    kota_id: '22'
+    data_tahun: '29'
+  Lahan_Kritis_30:
+    dalam_kawasan_hutan: '7968'
+    luar_kawasan_hutan: '39147'
+    kota_id: '15'
+    data_tahun: '30'
+  Lahan_Kritis_31:
+    dalam_kawasan_hutan: '14507'
+    luar_kawasan_hutan: '32266'
+    kota_id: '6'
+    data_tahun: '31'
+  Lahan_Kritis_32:
+    dalam_kawasan_hutan: '22275'
+    luar_kawasan_hutan: '23362'
+    kota_id: '4'
+    data_tahun: '32'
+  Lahan_Kritis_33:
+    dalam_kawasan_hutan: '6957'
+    luar_kawasan_hutan: '33537'
+    kota_id: '12'
+    data_tahun: '33'
+  Lahan_Kritis_34:
+    dalam_kawasan_hutan: '10259'
+    luar_kawasan_hutan: '20864'
+    kota_id: '11'
+    data_tahun: '34'
+  Lahan_Kritis_35:
+    dalam_kawasan_hutan: '14304'
+    luar_kawasan_hutan: '16593'
+    kota_id: '10'
+    data_tahun: '35'
+  Lahan_Kritis_36:
+    dalam_kawasan_hutan: '2789'
+    luar_kawasan_hutan: '22575'
+    kota_id: '18'
+    data_tahun: '36'
+  Lahan_Kritis_37:
+    dalam_kawasan_hutan: '4259'
+    luar_kawasan_hutan: '19431'
+    kota_id: '20'
+    data_tahun: '37'
+  Lahan_Kritis_38:
+    dalam_kawasan_hutan: '7937'
+    luar_kawasan_hutan: '15472'
+    kota_id: '23'
+    data_tahun: '38'
+  Lahan_Kritis_39:
+    dalam_kawasan_hutan: '6562'
+    luar_kawasan_hutan: '11633'
+    kota_id: '9'
+    data_tahun: '39'
+  Lahan_Kritis_40:
+    dalam_kawasan_hutan: '4877'
+    luar_kawasan_hutan: '13188'
+    kota_id: '14'
+    data_tahun: '40'
+  Lahan_Kritis_41:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '13454'
+    kota_id: '2'
+    data_tahun: '41'
+  Lahan_Kritis_42:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '8056'
+    kota_id: '26'
+    data_tahun: '42'
+  Lahan_Kritis_43:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '4928'
+    kota_id: '17'
+    data_tahun: '43'
+  Lahan_Kritis_44:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '2500'
+    kota_id: '19'
+    data_tahun: '44'
+  Lahan_Kritis_45:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '609'
+    kota_id: '25'
+    data_tahun: '45'
+  Lahan_Kritis_46:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '432'
+    kota_id: '3'
+    data_tahun: '46'
+  Lahan_Kritis_47:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '350'
+    kota_id: '8'
+    data_tahun: '47'
+  Lahan_Kritis_48:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '293'
+    kota_id: '7'
+    data_tahun: '48'
+  Lahan_Kritis_49:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '279'
+    kota_id: '21'
+    data_tahun: '49'
+  Lahan_Kritis_50:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '262'
+    kota_id: '13'
+    data_tahun: '50'
+  Lahan_Kritis_51:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '27'
+    data_tahun: '51'
+  Lahan_Kritis_52:
+    dalam_kawasan_hutan: '8857'
+    luar_kawasan_hutan: '64239'
+    kota_id: '16'
+    data_tahun: '52'
+  Lahan_Kritis_53:
+    dalam_kawasan_hutan: '18343'
+    luar_kawasan_hutan: '42384'
+    kota_id: '24'
+    data_tahun: '53'
+  Lahan_Kritis_54:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '653'
+    kota_id: '22'
+    data_tahun: '54'
+  Lahan_Kritis_55:
+    dalam_kawasan_hutan: '4508'
+    luar_kawasan_hutan: '35122'
+    kota_id: '15'
+    data_tahun: '55'
+  Lahan_Kritis_56:
+    dalam_kawasan_hutan: '10938'
+    luar_kawasan_hutan: '28731'
+    kota_id: '6'
+    data_tahun: '56'
+  Lahan_Kritis_57:
+    dalam_kawasan_hutan: '20645'
+    luar_kawasan_hutan: '18295'
+    kota_id: '4'
+    data_tahun: '57'
+  Lahan_Kritis_58:
+    dalam_kawasan_hutan: '4890'
+    luar_kawasan_hutan: '29391'
+    kota_id: '12'
+    data_tahun: '58'
+  Lahan_Kritis_59:
+    dalam_kawasan_hutan: '9881'
+    luar_kawasan_hutan: '17118'
+    kota_id: '11'
+    data_tahun: '59'
+  Lahan_Kritis_60:
+    dalam_kawasan_hutan: '12983'
+    luar_kawasan_hutan: '14504'
+    kota_id: '10'
+    data_tahun: '60'
+  Lahan_Kritis_61:
+    dalam_kawasan_hutan: '1878'
+    luar_kawasan_hutan: '19813'
+    kota_id: '18'
+    data_tahun: '61'
+  Lahan_Kritis_62:
+    dalam_kawasan_hutan: '2839'
+    luar_kawasan_hutan: '12557'
+    kota_id: '20'
+    data_tahun: '62'
+  Lahan_Kritis_63:
+    dalam_kawasan_hutan: '5555'
+    luar_kawasan_hutan: '12222'
+    kota_id: '23'
+    data_tahun: '63'
+  Lahan_Kritis_64:
+    dalam_kawasan_hutan: '5556'
+    luar_kawasan_hutan: '8202'
+    kota_id: '9'
+    data_tahun: '64'
+  Lahan_Kritis_65:
+    dalam_kawasan_hutan: '1766'
+    luar_kawasan_hutan: '9238'
+    kota_id: '14'
+    data_tahun: '65'
+  Lahan_Kritis_66:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '12867'
+    kota_id: '2'
+    data_tahun: '66'
+  Lahan_Kritis_67:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '6872'
+    kota_id: '26'
+    data_tahun: '67'
+  Lahan_Kritis_68:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '2823'
+    kota_id: '17'
+    data_tahun: '68'
+  Lahan_Kritis_69:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '1798'
+    kota_id: '19'
+    data_tahun: '69'
+  Lahan_Kritis_70:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '138'
+    kota_id: '25'
+    data_tahun: '70'
+  Lahan_Kritis_71:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '202'
+    kota_id: '3'
+    data_tahun: '71'
+  Lahan_Kritis_72:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '213'
+    kota_id: '8'
+    data_tahun: '72'
+  Lahan_Kritis_73:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '221'
+    kota_id: '7'
+    data_tahun: '73'
+  Lahan_Kritis_74:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '85'
+    kota_id: '21'
+    data_tahun: '74'
+  Lahan_Kritis_75:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '223'
+    kota_id: '13'
+    data_tahun: '75'
+  Lahan_Kritis_76:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '27'
+    data_tahun: '76'
+  Lahan_Kritis_77:
+    dalam_kawasan_hutan: '5623'
+    luar_kawasan_hutan: '57487'
+    kota_id: '16'
+    data_tahun: '77'
+  Lahan_Kritis_78:
+    dalam_kawasan_hutan: '15433'
+    luar_kawasan_hutan: '37179'
+    kota_id: '24'
+    data_tahun: '78'
+  Lahan_Kritis_79:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '653'
+    kota_id: '22'
+    data_tahun: '79'
+  Lahan_Kritis_80:
+    dalam_kawasan_hutan: '3375'
+    luar_kawasan_hutan: '31370'
+    kota_id: '15'
+    data_tahun: '80'
+  Lahan_Kritis_81:
+    dalam_kawasan_hutan: '8633'
+    luar_kawasan_hutan: '25736'
+    kota_id: '6'
+    data_tahun: '81'
+  Lahan_Kritis_82:
+    dalam_kawasan_hutan: '19513'
+    luar_kawasan_hutan: '16258'
+    kota_id: '4'
+    data_tahun: '82'
+  Lahan_Kritis_83:
+    dalam_kawasan_hutan: '2797'
+    luar_kawasan_hutan: '26649'
+    kota_id: '12'
+    data_tahun: '83'
+  Lahan_Kritis_84:
+    dalam_kawasan_hutan: '9881'
+    luar_kawasan_hutan: '16593'
+    kota_id: '11'
+    data_tahun: '84'
+  Lahan_Kritis_85:
+    dalam_kawasan_hutan: '12983'
+    luar_kawasan_hutan: '12101'
+    kota_id: '10'
+    data_tahun: '85'
+  Lahan_Kritis_86:
+    dalam_kawasan_hutan: '1617'
+    luar_kawasan_hutan: '17421'
+    kota_id: '18'
+    data_tahun: '86'
+  Lahan_Kritis_87:
+    dalam_kawasan_hutan: '1396'
+    luar_kawasan_hutan: '11959'
+    kota_id: '20'
+    data_tahun: '87'
+  Lahan_Kritis_88:
+    dalam_kawasan_hutan: '3778'
+    luar_kawasan_hutan: '10364'
+    kota_id: '23'
+    data_tahun: '88'
+  Lahan_Kritis_89:
+    dalam_kawasan_hutan: '1278'
+    luar_kawasan_hutan: '3206'
+    kota_id: '9'
+    data_tahun: '89'
+  Lahan_Kritis_90:
+    dalam_kawasan_hutan: '-'
+    luar_kawasan_hutan: '7521'
+    kota_id: '14'
+    data_tahun: '90'
+  Lahan_Kritis_91:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '12561'
+    kota_id: '2'
+    data_tahun: '91'
+  Lahan_Kritis_92:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '5791'
+    kota_id: '26'
+    data_tahun: '92'
+  Lahan_Kritis_93:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '2363'
+    kota_id: '17'
+    data_tahun: '93'
+  Lahan_Kritis_94:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '1595'
+    kota_id: '19'
+    data_tahun: '94'
+  Lahan_Kritis_95:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '65'
+    kota_id: '25'
+    data_tahun: '95'
+  Lahan_Kritis_96:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '184'
+    kota_id: '3'
+    data_tahun: '96'
+  Lahan_Kritis_97:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '124'
+    kota_id: '8'
+    data_tahun: '97'
+  Lahan_Kritis_98:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '162'
+    kota_id: '7'
+    data_tahun: '98'
+  Lahan_Kritis_99:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '36'
+    kota_id: '21'
+    data_tahun: '99'
+  Lahan_Kritis_100:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '153'
+    kota_id: '13'
+    data_tahun: '100'
+  Lahan_Kritis_101:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '-'
+    kota_id: '27'
+    data_tahun: '101'
+  Lahan_Kritis_102:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '5'
+    data_tahun: '102'
+  Lahan_Kritis_103:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '4'
+    data_tahun: '103'
+  Lahan_Kritis_104:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '24'
+    data_tahun: '104'
+  Lahan_Kritis_105:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '6'
+    data_tahun: '105'
+  Lahan_Kritis_106:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '22'
+    data_tahun: '106'
+  Lahan_Kritis_107:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '16'
+    data_tahun: '107'
+  Lahan_Kritis_108:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '23'
+    data_tahun: '108'
+  Lahan_Kritis_109:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '18'
+    data_tahun: '109'
+  Lahan_Kritis_110:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '14'
+    data_tahun: '110'
+  Lahan_Kritis_111:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '26'
+    data_tahun: '111'
+  Lahan_Kritis_112:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '15'
+    data_tahun: '112'
+  Lahan_Kritis_113:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '20'
+    data_tahun: '113'
+  Lahan_Kritis_114:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '12'
+    data_tahun: '114'
+  Lahan_Kritis_115:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '10'
+    data_tahun: '115'
+  Lahan_Kritis_116:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '9'
+    data_tahun: '116'
+  Lahan_Kritis_117:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '11'
+    data_tahun: '117'
+  Lahan_Kritis_118:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '2'
+    data_tahun: '118'
+  Lahan_Kritis_119:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '27'
+    data_tahun: '119'
+  Lahan_Kritis_120:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '5'
+    data_tahun: '120'
+  Lahan_Kritis_121:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '7'
+    data_tahun: '121'
+  Lahan_Kritis_122:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '8'
+    data_tahun: '122'
+  Lahan_Kritis_123:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '13'
+    data_tahun: '123'
+  Lahan_Kritis_124:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '21'
+    data_tahun: '124'
+  Lahan_Kritis_125:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '3'
+    data_tahun: '125'
+  Lahan_Kritis_126:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '25'
+    data_tahun: '126'
+  Lahan_Kritis_127:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '17'
+    data_tahun: '127'
+  Lahan_Kritis_128:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '19'
+    data_tahun: '128'
+  Lahan_Kritis_129:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '4'
+    data_tahun: '129'
+  Lahan_Kritis_130:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '24'
+    data_tahun: '130'
+  Lahan_Kritis_131:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '6'
+    data_tahun: '131'
+  Lahan_Kritis_132:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '22'
+    data_tahun: '132'
+  Lahan_Kritis_133:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '16'
+    data_tahun: '133'
+  Lahan_Kritis_134:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '23'
+    data_tahun: '134'
+  Lahan_Kritis_135:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '18'
+    data_tahun: '135'
+  Lahan_Kritis_136:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '14'
+    data_tahun: '136'
+  Lahan_Kritis_137:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '26'
+    data_tahun: '137'
+  Lahan_Kritis_138:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '15'
+    data_tahun: '138'
+  Lahan_Kritis_139:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '20'
+    data_tahun: '139'
+  Lahan_Kritis_140:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '12'
+    data_tahun: '140'
+  Lahan_Kritis_141:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '10'
+    data_tahun: '141'
+  Lahan_Kritis_142:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '9'
+    data_tahun: '142'
+  Lahan_Kritis_143:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '11'
+    data_tahun: '143'
+  Lahan_Kritis_144:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '2'
+    data_tahun: '144'
+  Lahan_Kritis_145:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '27'
+    data_tahun: '145'
+  Lahan_Kritis_146:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '5'
+    data_tahun: '146'
+  Lahan_Kritis_147:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '7'
+    data_tahun: '147'
+  Lahan_Kritis_148:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '8'
+    data_tahun: '148'
+  Lahan_Kritis_149:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '13'
+    data_tahun: '149'
+  Lahan_Kritis_150:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '21'
+    data_tahun: '150'
+  Lahan_Kritis_151:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '3'
+    data_tahun: '151'
+  Lahan_Kritis_152:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '25'
+    data_tahun: '152'
+  Lahan_Kritis_153:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '17'
+    data_tahun: '153'
+  Lahan_Kritis_154:
+    dalam_kawasan_hutan: '0'
+    luar_kawasan_hutan: '0'
+    kota_id: '19'
+    data_tahun: '154'

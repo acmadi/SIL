@@ -1,0 +1,771 @@
+Report:
+  Report_1:
+    kota_id: '16'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_2:
+    kota_id: '24'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_3:
+    kota_id: '22'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_4:
+    kota_id: '15'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_5:
+    kota_id: '6'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_6:
+    kota_id: '4'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_7:
+    kota_id: '12'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_8:
+    kota_id: '11'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_9:
+    kota_id: '10'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_10:
+    kota_id: '18'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_11:
+    kota_id: '20'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_12:
+    kota_id: '23'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_13:
+    kota_id: '9'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_14:
+    kota_id: '14'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_15:
+    kota_id: '2'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_16:
+    kota_id: '26'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_17:
+    kota_id: '17'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_18:
+    kota_id: '19'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_19:
+    kota_id: '25'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_20:
+    kota_id: '3'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_21:
+    kota_id: '8'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_22:
+    kota_id: '7'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_23:
+    kota_id: '21'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_24:
+    kota_id: '13'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_25:
+    kota_id: '27'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_26:
+    kota_id: '5'
+    tahun: '2006'
+    notes: ''
+    lock_status: '0'
+  Report_27:
+    kota_id: '16'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_28:
+    kota_id: '24'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_29:
+    kota_id: '22'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_30:
+    kota_id: '15'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_31:
+    kota_id: '6'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_32:
+    kota_id: '4'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_33:
+    kota_id: '12'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_34:
+    kota_id: '11'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_35:
+    kota_id: '10'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_36:
+    kota_id: '18'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_37:
+    kota_id: '20'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_38:
+    kota_id: '23'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_39:
+    kota_id: '9'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_40:
+    kota_id: '14'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_41:
+    kota_id: '2'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_42:
+    kota_id: '26'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_43:
+    kota_id: '17'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_44:
+    kota_id: '19'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_45:
+    kota_id: '25'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_46:
+    kota_id: '3'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_47:
+    kota_id: '8'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_48:
+    kota_id: '7'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_49:
+    kota_id: '21'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_50:
+    kota_id: '13'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_51:
+    kota_id: '27'
+    tahun: '2003'
+    notes: ''
+    lock_status: '0'
+  Report_52:
+    kota_id: '16'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_53:
+    kota_id: '24'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_54:
+    kota_id: '22'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_55:
+    kota_id: '15'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_56:
+    kota_id: '6'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_57:
+    kota_id: '4'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_58:
+    kota_id: '12'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_59:
+    kota_id: '11'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_60:
+    kota_id: '10'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_61:
+    kota_id: '18'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_62:
+    kota_id: '20'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_63:
+    kota_id: '23'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_64:
+    kota_id: '9'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_65:
+    kota_id: '14'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_66:
+    kota_id: '2'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_67:
+    kota_id: '26'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_68:
+    kota_id: '17'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_69:
+    kota_id: '19'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_70:
+    kota_id: '25'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_71:
+    kota_id: '3'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_72:
+    kota_id: '8'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_73:
+    kota_id: '7'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_74:
+    kota_id: '21'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_75:
+    kota_id: '13'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_76:
+    kota_id: '27'
+    tahun: '2004'
+    notes: ''
+    lock_status: '0'
+  Report_77:
+    kota_id: '16'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_78:
+    kota_id: '24'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_79:
+    kota_id: '22'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_80:
+    kota_id: '15'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_81:
+    kota_id: '6'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_82:
+    kota_id: '4'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_83:
+    kota_id: '12'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_84:
+    kota_id: '11'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_85:
+    kota_id: '10'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_86:
+    kota_id: '18'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_87:
+    kota_id: '20'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_88:
+    kota_id: '23'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_89:
+    kota_id: '9'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_90:
+    kota_id: '14'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_91:
+    kota_id: '2'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_92:
+    kota_id: '26'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_93:
+    kota_id: '17'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_94:
+    kota_id: '19'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_95:
+    kota_id: '25'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_96:
+    kota_id: '3'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_97:
+    kota_id: '8'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_98:
+    kota_id: '7'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_99:
+    kota_id: '21'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_100:
+    kota_id: '13'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_101:
+    kota_id: '27'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_102:
+    kota_id: '5'
+    tahun: '2005'
+    notes: ''
+    lock_status: '0'
+  Report_103:
+    kota_id: '4'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_104:
+    kota_id: '24'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_105:
+    kota_id: '6'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_106:
+    kota_id: '22'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_107:
+    kota_id: '16'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_108:
+    kota_id: '23'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_109:
+    kota_id: '18'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_110:
+    kota_id: '14'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_111:
+    kota_id: '26'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_112:
+    kota_id: '15'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_113:
+    kota_id: '20'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_114:
+    kota_id: '12'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_115:
+    kota_id: '10'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_116:
+    kota_id: '9'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_117:
+    kota_id: '11'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_118:
+    kota_id: '2'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_119:
+    kota_id: '27'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_120:
+    kota_id: '5'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_121:
+    kota_id: '7'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_122:
+    kota_id: '8'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_123:
+    kota_id: '13'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_124:
+    kota_id: '21'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_125:
+    kota_id: '3'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_126:
+    kota_id: '25'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_127:
+    kota_id: '17'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_128:
+    kota_id: '19'
+    tahun: '2007'
+    notes: ''
+    lock_status: '0'
+  Report_129:
+    kota_id: '4'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_130:
+    kota_id: '24'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_131:
+    kota_id: '6'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_132:
+    kota_id: '22'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_133:
+    kota_id: '16'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_134:
+    kota_id: '23'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_135:
+    kota_id: '18'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_136:
+    kota_id: '14'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_137:
+    kota_id: '26'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_138:
+    kota_id: '15'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_139:
+    kota_id: '20'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_140:
+    kota_id: '12'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_141:
+    kota_id: '10'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_142:
+    kota_id: '9'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_143:
+    kota_id: '11'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_144:
+    kota_id: '2'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_145:
+    kota_id: '27'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_146:
+    kota_id: '5'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_147:
+    kota_id: '7'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_148:
+    kota_id: '8'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_149:
+    kota_id: '13'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_150:
+    kota_id: '21'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_151:
+    kota_id: '3'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_152:
+    kota_id: '25'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_153:
+    kota_id: '17'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'
+  Report_154:
+    kota_id: '19'
+    tahun: '2008'
+    notes: ''
+    lock_status: '0'

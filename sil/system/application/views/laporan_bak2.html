@@ -1,0 +1,98 @@
+<!--div class="block b-fourth b-left b-sand2">
+	<h1>Filter</h1>
+	<form action="" method="post">
+		<p>Mulai : <input type="text" id="datepickerfrom" class="hasDatepicker" /></p>
+		<p>Sampai : <input type="text" id="datepickerto" class="hasDatepicker" /></p>
+		<input type="submit" value="Tampilkan" />
+	</form>
+</div-->
+<div class="block b-full" id="laporan-table">
+	<div class="block b-full">
+		<div id="filter">
+			<ul>
+				<li><a href="" title="Tampilkan hanya pengaduan saya" onclick="">Pengaduan Saya (<span id="minestat">off</span>)</a></li>
+				<li><a href="" title="Filter berdasarkan lokasi" onclick="">Filter Lokasi</a></li>
+				<li><a href="" title="Filter berdasarkan waktu" onclick="">Filter Waktu</a></li>
+			</ul>
+		</div>
+		<script type="text/javascript">
+			//alert("test");
+			var records = <?php echo $records; ?>;
+			function pageselectCallback(page_index, jq){
+                // Get number of elements per pagionation page from form
+                var items_per_page = $('#items_per_page').val();
+                var max_elem = Math.min((page_index+1) * items_per_page, records.length);
+                var newcontent = '';
+                
+                // Iterate through a selection of the content and build an HTML string
+                for(var i=page_index*items_per_page;i<max_elem;i++)
+                {
+                    newcontent += '<dt>' + records[i][0] + '</dt>';
+                    newcontent += '<dd class="state">' + records[i][2] + '</dd>';
+                    newcontent += '<dd class="party">' + records[i][3] + '</dd>';
+                }
+                
+                // Replace old content with new content
+                $('#Searchresult').html(newcontent);
+                
+                // Prevent click event propagation
+                return false;
+            }
+            
+            // The form contains fields for many pagiantion optiosn so you can 
+            // quickly see the resuluts of the different options.
+            // This function creates an option object for the pagination function.
+            // This will be be unnecessary in your application where you just set
+            // the options once.
+            function getOptionsFromForm(){
+                var opt = {callback: pageselectCallback};
+                // Collect options from the text fields - the fields are named like their option counterparts
+                $("input:text").each(function(){
+                    opt[this.name] = this.className.match(/numeric/) ? parseInt(this.value) : this.value;
+                });
+                // Avoid html injections in this demo
+                var htmlspecialchars ={ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;"}
+                $.each(htmlspecialchars, function(k,v){
+                    opt.prev_text = opt.prev_text.replace(k,v);
+                    opt.next_text = opt.next_text.replace(k,v);
+                })
+                return opt;
+            }
+			
+            // When document has loaded, initialize pagination and form 
+            $(document).ready(function(){
+				// Create pagination element with options from form
+                var optInit = getOptionsFromForm();
+                $("#Pagination").pagination(records.length, optInit);
+                
+				// Event Handler for for button
+				$("#setoptions").click(function(){
+                    var opt = getOptionsFromForm();
+                    // Re-create pagination content with new parameters
+                    $("#Pagination").pagination(records.length, opt);
+                }); 
+
+            });
+        </script>
+		
+		<div id="sPagination"></div>
+		<br style="clear:both;" />
+        <h3>Table</h3>
+		<div>
+			<table cellspacing="0">
+			<tr class="head">
+				<th>No</th>
+				<th>Judul</th>
+				<th>Tanggal Upload</th>
+				<th>Tanggal Foto</th>
+				<th>Lokasi</th>
+				<th>Long</th>
+				<th>Lat</th>
+				<th>Deskripsi</th>
+			</tr>
+			<tr id="Searchresult">
+			</tr>
+			</table>
+		</div>
+	</div>
+</div>
